@@ -1,0 +1,23 @@
+Analiza y Realiza este ejemplo para ver la importancia de utilización de patrones de diseño y separación de partes en la codificación web.
+
+A paritr de este momento se utilizará siempre el patrón de diseño MVC para la realización de nuestras aplicaciones.
+
+En esta actividad se propone la puesta en marcha y utilización por grupos de 3, de una apliación desarrollada y administrada por un servicio de control de versiones como GIT y su aplicación web GITHUB.
+
+En grupos de 3 y básandonos en este ejemplo
+
+http://librosweb.es/libro/symfony_1_2/capitulo_2/el_patron_mvc.html
+
+Cada integrante del grupo asumirá un rol en el desarrollo. Desde los editores de código existen plugins para conectarse y publicar cambios en los servidores de versiones como GITHUB. Se recomienda que a medida que vayas codificando vayas publicando en el repositorio. Por ejemplo desde Netbeans, a continuación se muestran 2 enlaces:
+
+https://alsondelduende.wordpress.com/2013/01/27/subir-proyecto-por-primera-vez-desde-netbeans-a-github/
+
+https://lineaporlinea.wordpress.com/2014/01/19/integrar-netbeans-con-github/
+
+- Integrante 1: Asumirá la vista. Y la administración del proyecto, creará el proyecto y asociará los otros 2 usuarios. Indicará en un comentario o fichero de texto de Github (incidencias.txt) las incidencias que han ocurrido en el desarrollo. También recogerá las valoraciones de la experiencia del resto de integrantes y las indicará en un fichero de texto (valoraciones.txt) o en comentarios.
+
+- Integrante 2: Asumirá el controlador. Gestión de cambios: Explicará en un archivo de texto del proyecto o bien mediante comentarios cómo se está desarrollando (histórico.txt). Insertará el enlace final al proyecto en hostinger.
+
+- Integrante 3: Asumirá el modelo. Asumirá el paso a Producción. En la cuenta de hostinger deberá subir el proyecto. En la cuenta de Github subirá las indicaciones para la instalación del proyecto en cualquier ubicación y los scripts de la base de datos (instalación.sql o bien instalación.php)
+
+La entrega se realizará mediante el enlace al proyecto público a Github, se indicarán los integrantes del grupo.
