@@ -1,0 +1,7 @@
+Hola Jesús. Soy Alfonso. Esta es la parte del controlador. 
+
+El proyecto se está desarrollando con normalidad. Hemos instalado en tres ordenadores en GitHub versión Desktop. Es una interfaz
+amigable. Nos pusimos de acuerdo Jesús, César y yo para darle a "sync" y sincronizar el contenido de la carpeta "GitHub" con
+su proyecto "ProyectoDAW" a la hora de trabajar. A parte de las constantes caídas de la red del ilustre centro "I.E.S. Camas"
+(como ha recogido mi compañero César en las incidencias), no ha habido ningún problema. El mayor problema que hemos tenido ha
+sido el ya todoconocido Hostinger. Tuvimos que cambiar el host a 000webhost. 
