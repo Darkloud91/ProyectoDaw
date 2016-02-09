@@ -1,6 +1,2 @@
-Incidencia Incidencia Incidencia Incidencia Incidencia Incidencia Incidencia 
-Incidencia Incidencia Incidencia Incidencia Incidencia 
-Incidencia Incidencia Incidencia Incidencia 
-Incidencia Incidencia Incidencia Incidencia Incidencia Incidencia Incidencia Incidencia 
-Incidencia Incidencia Incidencia Incidencia Incidencia Incidencia 
-Incidencia Incidencia Incidencia Incidencia Incidencia Incidencia 
+- Caidas de la red del centro IES CAMAS.
+- No poder Acceder a Hostinger y tener que Usar el servidor 000WebHost.
